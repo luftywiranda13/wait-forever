@@ -1,6 +1,6 @@
 {
   "name": "wait-forever",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A `promise` that never resolves",
   "license": "MIT",
   "repository": "https://github.com/luftywiranda13/wait-forever",
